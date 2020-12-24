@@ -1,27 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bugyardhytio/di2030/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Masa depan selalu jamak, kemungkinan-kemungkinannya bisa berubah. Hal ini menjadi tantangan besar apabila tidak bisa dikendalikan dengan pendekatan yang tepat. Pada konteks saat ini, saat dunia dilanda badai pandemi korona. Salah satu dampak buruk yang dihasilkan adalah meningkatnya jumlah pengangguran. Hal ini adalah bencana yang sangat berat bagi banyak warga Jakarta, atau titik tolak bagi individu besar untuk memulai kehidupan baru
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+di2030.id hadir sebagai sebuah proyek sosial yang berusaha mempertemukan visi dan aksi warga, organisasi dan kota untuk menciptakan perubahan sistemik berkelanjutan. Proyek ini dimulai dengan harapan dapat memberikan konteks bagi individu, contohnya yang belum bekerja (terlibat aktif di masyarakat) atau mengalami PHK atau masyarakat umum agar bisa memanfaatkan potensi sertaaktunya untuk hal yang bermanfaat.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Model Kolaborasi ini menggunakan pendekatan futures thinking dan multi-level agent dalam bentuk kursus online, konsultasi dan workshop untuk mempertajam visi dan aksi individu, organisasi atau kota/kawasan. Output dari program ini adalah rencana pengaruh personal (personal impact plan) bagi individu, yang ditunjang visi organisasi serta visi pembangunan daerah/kota.
 
 [Link](url) and ![Image](src)
 ```
